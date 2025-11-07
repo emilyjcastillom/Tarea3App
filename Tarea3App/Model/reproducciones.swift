@@ -11,4 +11,5 @@ struct reproducciones: Identifiable {
     let id: Int
     let cancion: String
     let reproducciones: Int
+    let anio: Int
 }
